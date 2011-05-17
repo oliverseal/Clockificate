@@ -13,6 +13,7 @@
 #define STATUSITEMVIEW_BINARYPADDINGHEIGHT 6
 #define STATUSITEMVIEW_BINARYCOLUMNSPACING 2
 #define STATUSITEMVIEW_BINARYDOTSPACING 4
+#define STATUSITEMVIEW_BINARYWIDTH 42
 #define M_FULLRADIUS (M_PI/2)
 
 @implementation ColorableStatusItem
@@ -154,10 +155,10 @@
 }
 
 - (void)setTitleToBinary:(NSDate *)time {
-	int newWidth = 50;
+	int newWidth = STATUSITEMVIEW_BINARYWIDTH;
 	[statusItem setLength:newWidth];
 	
-	NSImage *currentImage = [[[NSImage alloc] initWithSize:NSMakeSize(50, 20)] autorelease];
+	NSImage *currentImage = [[[NSImage alloc] initWithSize:NSMakeSize(STATUSITEMVIEW_BINARYWIDTH, 20)] autorelease];
 	
 	// Dear Open-Source Community, do you know of a more efficient way to get this in Objective-C? Email me.
 	NSInteger hour = [[time dateWithCalendarFormat:nil timeZone:nil] hourOfDay];
