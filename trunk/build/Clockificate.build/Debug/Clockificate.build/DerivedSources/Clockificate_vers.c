@@ -1,0 +1,1 @@
+ const unsigned char ClockificateVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:Clockificate  PROJECT:Clockificate-1.0" "\n"; const double ClockificateVersionNumber __attribute__ ((used)) = (double)1.0;

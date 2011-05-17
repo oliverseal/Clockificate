@@ -1,0 +1,573 @@
+TClockificate
+v7
+r0
+t327356243.358870
+cCheck dependencies
+cProcessInfoPlistFile /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/Info.plist Clockificate-Info.plist
+cCopyStringsFile /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/oliver/Projects/Clockificate/trunk/English.lproj/MainMenu.xib
+cCpResource build/Debug/Clockificate.app/Contents/Resources/ClockificateIcon.icns ClockificateIcon.icns
+cProcessPCH /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-fressgwloseeachaqnqpcuvktzwb/Clockificate_Prefix.pch.gch Clockificate_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/main.o /Users/oliver/Projects/Clockificate/trunk/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ClockificateAppDelegate.o /Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ColorableStatusItem.o /Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/AboutClockificateWindow.o /Users/oliver/Projects/Clockificate/trunk/AboutClockificateWindow.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/Clockificate_vers.o /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/Clockificate_vers.c normal x86_64 c com.apple.compilers.gcc.4_2
+cLd /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/MacOS/Clockificate normal x86_64
+cTouch /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.h
+c000000004DD29F03000000000000029E
+t1305648899
+s670
+i<Cocoa/Cocoa.h>
+i"ColorableStatusItem.h"
+
+N/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m
+c000000004DD2A0F80000000000000F4B
+t1305649400
+s3915
+i"ClockificateAppDelegate.h"
+
+N/Users/oliver/Projects/Clockificate/Clockificate_Prefix.pch
+c000000004DAF49BB000000000000009B
+t1303333307
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/oliver/Projects/Clockificate/ColorableStatusItem.h
+c000000004DD27C2700000000000001FC
+t1305639975
+s508
+i<Cocoa/Cocoa.h>
+
+N/Users/oliver/Projects/Clockificate/ColorableStatusItem.m
+c000000004DD29F9E0000000000001942
+t1305649054
+s6466
+i"ColorableStatusItem.h"
+
+N/Users/oliver/Projects/Clockificate/English.lproj/InfoPlist.strings
+c000000004DAF49BB000000000000002D
+t1303333307
+s45
+
+N/Users/oliver/Projects/Clockificate/English.lproj/MainMenu.xib
+c000000004DD2A103000000000002D817
+t1305649411
+s186391
+
+N/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/Clockificate.LinkFileList
+c000000004DD29FBD000000000000017B
+t1305649085
+s379
+
+N/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ClockificateAppDelegate.o
+t1305649414
+s42496
+
+N/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ColorableStatusItem.o
+t1305649092
+s41532
+
+N/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/main.o
+t1305649092
+s4984
+
+N/Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app
+t1305649414
+s102
+
+N/Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/Info.plist
+t1305649085
+s926
+
+N/Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/MacOS/Clockificate
+t1305649414
+s35872
+
+N/Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/PkgInfo
+t1305649085
+s8
+
+N/Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1305649086
+s92
+
+N/Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/Resources/English.lproj/MainMenu.nib
+t1305649414
+s34810
+
+N/Users/oliver/Projects/Clockificate/main.m
+c000000004DAF49BB0000000000000106
+t1303333307
+s262
+i<Cocoa/Cocoa.h>
+
+N/Users/oliver/Projects/Clockificate/trunk/AboutClockificatePanel.h
+c000000004DD2C23500000000000000EB
+t1305657909
+s235
+i<Cocoa/Cocoa.h>
+
+N/Users/oliver/Projects/Clockificate/trunk/AboutClockificatePanel.m
+c000000004DD2C26500000000000000F0
+t1305657957
+s240
+i"AboutClockificatePanel.h"
+
+N/Users/oliver/Projects/Clockificate/trunk/AboutClockificateWindow.h
+c000000004DD2D5D400000000000000ED
+t1305662932
+s237
+i<Cocoa/Cocoa.h>
+
+N/Users/oliver/Projects/Clockificate/trunk/AboutClockificateWindow.m
+c000000004DD2D5CB00000000000000F2
+t1305662923
+s242
+i"AboutClockificateWindow.h"
+
+N/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.h
+c000000004DD2D5E9000000000000033D
+t1305662953
+s829
+i<Cocoa/Cocoa.h>
+i"ColorableStatusItem.h"
+i"AboutClockificateWindow.h"
+
+N/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m
+c000000004DD2D6F000000000000011AE
+t1305663216
+s4526
+i"ClockificateAppDelegate.h"
+i"AboutClockificateWindow.h"
+
+N/Users/oliver/Projects/Clockificate/trunk/ClockificateIcon.icns
+c000000004DD2AEDF000000000000BF15
+t1305652959
+s48917
+
+N/Users/oliver/Projects/Clockificate/trunk/Clockificate_Prefix.pch
+c000000004DAF49BB000000000000009B
+t1303333307
+s155
+i<Cocoa/Cocoa.h>
+
+N/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.h
+c000000004DD27C2700000000000001FC
+t1305639975
+s508
+i<Cocoa/Cocoa.h>
+
+N/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m
+c000000004DD2BA610000000000001A37
+t1305655905
+s6711
+i"ColorableStatusItem.h"
+
+N/Users/oliver/Projects/Clockificate/trunk/English.lproj/InfoPlist.strings
+c000000004DAF49BB000000000000002D
+t1303333307
+s45
+
+N/Users/oliver/Projects/Clockificate/trunk/English.lproj/MainMenu.xib
+c000000004DD2D71500000000000309CD
+t1305663253
+s199117
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/Clockificate_vers.c
+c000000004DD2BE8E00000000000000D2
+t1305656974
+s210
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/AboutClockificatePanel.o
+t1305657992
+s5588
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/AboutClockificateWindow.o
+t1305663019
+s5596
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/Clockificate.LinkFileList
+c000000004DD2D626000000000000029F
+t1305663014
+s671
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ClockificateAppDelegate.o
+t1305663217
+s44876
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/Clockificate_vers.o
+t1305656975
+s2360
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ColorableStatusItem.o
+t1305655906
+s42520
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/main.o
+t1305654253
+s4992
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app
+t1305663443
+s102
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/Info.plist
+t1305663443
+s998
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/MacOS/Clockificate
+t1305663217
+s42056
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/PkgInfo
+t1305663443
+s8
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/Resources/ClockificateIcon.icns
+t1305654249
+s48917
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1305649086
+s92
+
+N/Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/Resources/English.lproj/MainMenu.nib
+t1305663260
+s38288
+
+N/Users/oliver/Projects/Clockificate/trunk/main.m
+c000000004DD2AF2C0000000000000105
+t1305653036
+s261
+i<Cocoa/Cocoa.h>
+
+N/var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-bsssnkhzfddevudfkurxrwlsdtlp/Clockificate_Prefix.pch.gch
+t1305649092
+s54306576
+
+N/var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-fressgwloseeachaqnqpcuvktzwb/Clockificate_Prefix.pch.gch
+t1305654252
+s54306576
+
+NClockificate-Info.plist
+c000000004DD2D7CF000000000000041B
+t1305663439
+s1051
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies327356243#327356243#0(0"0(0#1#0"8628474976#0"0#
+
+CCompileC build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/AboutClockificatePanel.o /Users/oliver/Projects/Clockificate/trunk/AboutClockificatePanel.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327350792.616234
+e327350792.740474
+r1
+xCompileC
+xbuild/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/AboutClockificatePanel.o
+x/Users/oliver/Projects/Clockificate/trunk/AboutClockificatePanel.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/oliver/Projects/Clockificate/trunk/AboutClockificatePanel.m327350792#327350792#0(0"0(0#0#66"/Users/oliver/Projects/Clockificate/trunk/AboutClockificatePanel.m8622100160#1619"    cd /Users/oliver/Projects/Clockificate/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-generated-files.hmap -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-own-target-headers.hmap -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-all-target-headers.hmap -iquote /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-project-headers.hmap -F/Users/oliver/Projects/Clockificate/trunk/build/Debug -I/Users/oliver/Projects/Clockificate/trunk/build/Debug/include -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources -include /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-fressgwloseeachaqnqpcuvktzwb/Clockificate_Prefix.pch -c /Users/oliver/Projects/Clockificate/trunk/AboutClockificatePanel.m -o /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/AboutClockificatePanel.o0#
+
+CCompileC build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/AboutClockificateWindow.o /Users/oliver/Projects/Clockificate/trunk/AboutClockificateWindow.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327355815.255756
+e327355819.023981
+r1
+xCompileC
+xbuild/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/AboutClockificateWindow.o
+x/Users/oliver/Projects/Clockificate/trunk/AboutClockificateWindow.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/oliver/Projects/Clockificate/trunk/AboutClockificateWindow.m327355815#327355819#0(0"0(0#0#67"/Users/oliver/Projects/Clockificate/trunk/AboutClockificateWindow.m8621325184#1621"    cd /Users/oliver/Projects/Clockificate/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-generated-files.hmap -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-own-target-headers.hmap -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-all-target-headers.hmap -iquote /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-project-headers.hmap -F/Users/oliver/Projects/Clockificate/trunk/build/Debug -I/Users/oliver/Projects/Clockificate/trunk/build/Debug/include -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources -include /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-fressgwloseeachaqnqpcuvktzwb/Clockificate_Prefix.pch -c /Users/oliver/Projects/Clockificate/trunk/AboutClockificateWindow.m -o /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/AboutClockificateWindow.o0#
+
+CCompileC build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ClockificateAppDelegate.o /Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327342214.541696
+e327342214.896748
+r1
+xCompileC
+xbuild/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ClockificateAppDelegate.o
+x/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate awakeFromNib]':
+o/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:42: warning: 'return' with a value, in function returning void
+o/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:78: warning: 'ColorableStatusItem' may not respond to '-setTitleForegroundColor:'
+o/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:78: warning: (Messages without a matching method signature
+o/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:78: warning: will be assumed to return 'id' and accept
+o/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:78: warning: '...' as arguments.)
+o/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate updateTime]':
+o/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:91: warning: 'ColorableStatusItem' may not respond to '-setBinary:'
+o/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:95: warning: 'ColorableStatusItem' may not respond to '-setBinary:'
+o/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:96: warning: 'ColorableStatusItem' may not respond to '-setTitleToBinary:'
+o/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate promptForTextColor:]':
+o/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:106: warning: class 'ClockificateAppDelegate' does not implement the 'NSWindowDelegate' protocol
+o/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate changeColor:]':
+o/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:116: warning: 'ColorableStatusItem' may not respond to '-setTitleForegroundColor:'
+lSLF07#2@69"Compile /Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m327342214#327342214#0(1781"/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate awakeFromNib]':/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:42: warning: 'return' with a value, in function returning void/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:78: warning: 'ColorableStatusItem' may not respond to '-setTitleForegroundColor:'/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:78: warning: (Messages without a matching method signature/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:78: warning: will be assumed to return 'id' and accept/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:78: warning: '...' as arguments.)/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate updateTime]':/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:91: warning: 'ColorableStatusItem' may not respond to '-setBinary:'/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:95: warning: 'ColorableStatusItem' may not respond to '-setBinary:'/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:96: warning: 'ColorableStatusItem' may not respond to '-setTitleToBinary:'/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate promptForTextColor:]':/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:106: warning: class 'ClockificateAppDelegate' does not implement the 'NSWindowDelegate' protocol/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate changeColor:]':/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m:116: warning: 'ColorableStatusItem' may not respond to '-setTitleForegroundColor:'8(22@49"'return' with a value, in function returning void327342214#118#125#0(6@61"/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m327342200#42#0#42#0#0"0(22@68"'ColorableStatusItem' may not respond to '-setTitleForegroundColor:'327342214#243#144#0(6@61"/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m327342200#78#0#78#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)327342214#387#121#0(6@61"/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m327342200#78#0#78#0#0"0(22@54"'ColorableStatusItem' may not respond to '-setBinary:'327342214#837#130#0(6@61"/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m327342200#91#0#91#0#26"'*' may not respond to '*'0(22@54"'ColorableStatusItem' may not respond to '-setBinary:'327342214#967#130#0(6@61"/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m327342200#95#0#95#0#26"'*' may not respond to '*'0(22@61"'ColorableStatusItem' may not respond to '-setTitleToBinary:'327342214#1097#137#0(6@61"/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m327342200#96#0#96#0#26"'*' may not respond to '*'0(22@82"Class 'ClockificateAppDelegate' does not implement the 'NSWindowDelegate' protocol327342214#1359#159#0(6@61"/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m327342200#106#0#106#0#45"class '*' does not implement the '*' protocol0(22@68"'ColorableStatusItem' may not respond to '-setTitleForegroundColor:'327342214#1636#145#0(6@61"/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m327342200#116#0#116#0#26"'*' may not respond to '*'0(0#0#61"/Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m8626943904#1555"    cd /Users/oliver/Projects/Clockificate    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-generated-files.hmap -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-own-target-headers.hmap -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-all-target-headers.hmap -iquote /Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-project-headers.hmap -F/Users/oliver/Projects/Clockificate/build/Debug -I/Users/oliver/Projects/Clockificate/build/Debug/include -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/DerivedSources -include /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-bsssnkhzfddevudfkurxrwlsdtlp/Clockificate_Prefix.pch -c /Users/oliver/Projects/Clockificate/ClockificateAppDelegate.m -o /Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ClockificateAppDelegate.o0#
+
+CCompileC build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ClockificateAppDelegate.o /Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327356016.779803
+e327356017.189882
+r1
+xCompileC
+xbuild/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ClockificateAppDelegate.o
+x/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate awakeFromNib]':
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:43: warning: 'return' with a value, in function returning void
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:82: warning: 'ColorableStatusItem' may not respond to '-setTitleForegroundColor:'
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:82: warning: (Messages without a matching method signature
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:82: warning: will be assumed to return 'id' and accept
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:82: warning: '...' as arguments.)
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate updateTime]':
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:95: warning: 'ColorableStatusItem' may not respond to '-setBinary:'
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:99: warning: 'ColorableStatusItem' may not respond to '-setBinary:'
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:100: warning: 'ColorableStatusItem' may not respond to '-setTitleToBinary:'
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate promptForTextColor:]':
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:110: warning: class 'ClockificateAppDelegate' does not implement the 'NSWindowDelegate' protocol
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate changeColor:]':
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:120: warning: 'ColorableStatusItem' may not respond to '-setTitleForegroundColor:'
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate openAboutWindow:]':
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:142: warning: 'return' with a value, in function returning void
+o/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:147: warning: class 'ClockificateAppDelegate' does not implement the 'NSWindowDelegate' protocol
+lSLF07#2@75"Compile /Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m327356016#327356017#0(2291"/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate awakeFromNib]':/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:43: warning: 'return' with a value, in function returning void/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:82: warning: 'ColorableStatusItem' may not respond to '-setTitleForegroundColor:'/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:82: warning: (Messages without a matching method signature/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:82: warning: will be assumed to return 'id' and accept/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:82: warning: '...' as arguments.)/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate updateTime]':/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:95: warning: 'ColorableStatusItem' may not respond to '-setBinary:'/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:99: warning: 'ColorableStatusItem' may not respond to '-setBinary:'/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:100: warning: 'ColorableStatusItem' may not respond to '-setTitleToBinary:'/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate promptForTextColor:]':/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:110: warning: class 'ClockificateAppDelegate' does not implement the 'NSWindowDelegate' protocol/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate changeColor:]':/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:120: warning: 'ColorableStatusItem' may not respond to '-setTitleForegroundColor:'/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m: In function '-[ClockificateAppDelegate openAboutWindow:]':/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:142: warning: 'return' with a value, in function returning void/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m:147: warning: class 'ClockificateAppDelegate' does not implement the 'NSWindowDelegate' protocol10(22@49"'return' with a value, in function returning void327356017#124#131#0(6@67"/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m327356016#43#0#43#0#0"0(22@68"'ColorableStatusItem' may not respond to '-setTitleForegroundColor:'327356017#255#150#0(6@67"/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m327356016#82#0#82#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)327356017#405#127#0(6@67"/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m327356016#82#0#82#0#0"0(22@54"'ColorableStatusItem' may not respond to '-setBinary:'327356017#879#136#0(6@67"/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m327356016#95#0#95#0#26"'*' may not respond to '*'0(22@54"'ColorableStatusItem' may not respond to '-setBinary:'327356017#1015#136#0(6@67"/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m327356016#99#0#99#0#26"'*' may not respond to '*'0(22@61"'ColorableStatusItem' may not respond to '-setTitleToBinary:'327356017#1151#144#0(6@67"/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m327356016#100#0#100#0#26"'*' may not respond to '*'0(22@82"Class 'ClockificateAppDelegate' does not implement the 'NSWindowDelegate' protocol327356017#1426#165#0(6@67"/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m327356016#110#0#110#0#45"class '*' does not implement the '*' protocol0(22@68"'ColorableStatusItem' may not respond to '-setTitleForegroundColor:'327356017#1715#151#0(6@67"/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m327356016#120#0#120#0#26"'*' may not respond to '*'0(22@49"'return' with a value, in function returning void327356017#1994#132#0(6@67"/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m327356016#142#0#142#0#0"0(22@82"Class 'ClockificateAppDelegate' does not implement the 'NSWindowDelegate' protocol327356017#2126#165#0(6@67"/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m327356016#147#0#147#0#45"class '*' does not implement the '*' protocol0(0#0#67"/Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m8614766624#1621"    cd /Users/oliver/Projects/Clockificate/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-generated-files.hmap -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-own-target-headers.hmap -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-all-target-headers.hmap -iquote /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-project-headers.hmap -F/Users/oliver/Projects/Clockificate/trunk/build/Debug -I/Users/oliver/Projects/Clockificate/trunk/build/Debug/include -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources -include /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-fressgwloseeachaqnqpcuvktzwb/Clockificate_Prefix.pch -c /Users/oliver/Projects/Clockificate/trunk/ClockificateAppDelegate.m -o /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ClockificateAppDelegate.o0#
+
+CCompileC build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/Clockificate_vers.o /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/Clockificate_vers.c normal x86_64 c com.apple.compilers.gcc.4_2
+s327349775.118393
+e327349775.231783
+r1
+xCompileC
+xbuild/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/Clockificate_vers.o
+x/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/Clockificate_vers.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@134"Compile /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/Clockificate_vers.c327349775#327349775#0(0"0(0#0#126"/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/Clockificate_vers.c8627023456#1484"    cd /Users/oliver/Projects/Clockificate/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-generated-files.hmap -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-own-target-headers.hmap -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-all-target-headers.hmap -iquote /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-project-headers.hmap -F/Users/oliver/Projects/Clockificate/trunk/build/Debug -I/Users/oliver/Projects/Clockificate/trunk/build/Debug/include -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources -c /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/Clockificate_vers.c -o /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/Clockificate_vers.o0#
+
+CCompileC build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ColorableStatusItem.o /Users/oliver/Projects/Clockificate/ColorableStatusItem.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327341892.806657
+e327341892.972451
+r1
+xCompileC
+xbuild/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ColorableStatusItem.o
+x/Users/oliver/Projects/Clockificate/ColorableStatusItem.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m: In function '-[ColorableStatusItem mouseDown:]':
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:41: warning: class 'ColorableStatusItem' does not implement the 'NSMenuDelegate' protocol
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m: In function '-[ColorableStatusItem setTitleToBinary:]':
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:162: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:162: warning: (Messages without a matching method signature
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:162: warning: will be assumed to return 'id' and accept
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:162: warning: '...' as arguments.)
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:165: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:171: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:173: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:176: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:178: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m: At top level:
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:217: warning: incomplete implementation of class 'ColorableStatusItem'
+o/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:217: warning: method definition for '-setImage:' not found
+lSLF07#2@65"Compile /Users/oliver/Projects/Clockificate/ColorableStatusItem.m327341892#327341892#0(1885"/Users/oliver/Projects/Clockificate/ColorableStatusItem.m: In function '-[ColorableStatusItem mouseDown:]':/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:41: warning: class 'ColorableStatusItem' does not implement the 'NSMenuDelegate' protocol/Users/oliver/Projects/Clockificate/ColorableStatusItem.m: In function '-[ColorableStatusItem setTitleToBinary:]':/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:162: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:162: warning: (Messages without a matching method signature/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:162: warning: will be assumed to return 'id' and accept/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:162: warning: '...' as arguments.)/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:165: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:171: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:173: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:176: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:178: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'/Users/oliver/Projects/Clockificate/ColorableStatusItem.m: At top level:/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:217: warning: incomplete implementation of class 'ColorableStatusItem'/Users/oliver/Projects/Clockificate/ColorableStatusItem.m:217: warning: method definition for '-setImage:' not found11(22@76"Class 'ColorableStatusItem' does not implement the 'NSMenuDelegate' protocol327341892#108#148#0(6@57"/Users/oliver/Projects/Clockificate/ColorableStatusItem.m327341854#41#0#41#0#45"class '*' does not implement the '*' protocol0(22@72"'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'327341892#371#145#0(6@57"/Users/oliver/Projects/Clockificate/ColorableStatusItem.m327341854#162#0#162#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)327341892#516#118#0(6@57"/Users/oliver/Projects/Clockificate/ColorableStatusItem.m327341854#162#0#162#0#0"0(22@72"'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'327341892#841#145#0(6@57"/Users/oliver/Projects/Clockificate/ColorableStatusItem.m327341854#165#0#165#0#26"'*' may not respond to '*'0(22@72"'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'327341892#986#145#0(6@57"/Users/oliver/Projects/Clockificate/ColorableStatusItem.m327341854#171#0#171#0#26"'*' may not respond to '*'0(22@72"'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'327341892#1131#145#0(6@57"/Users/oliver/Projects/Clockificate/ColorableStatusItem.m327341854#173#0#173#0#26"'*' may not respond to '*'0(22@72"'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'327341892#1276#145#0(6@57"/Users/oliver/Projects/Clockificate/ColorableStatusItem.m327341854#176#0#176#0#26"'*' may not respond to '*'0(22@72"'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'327341892#1421#145#0(6@57"/Users/oliver/Projects/Clockificate/ColorableStatusItem.m327341854#178#0#178#0#26"'*' may not respond to '*'0(23@13"At top level:327341892#1566#73#0(6@57"/Users/oliver/Projects/Clockificate/ColorableStatusItem.m327341854#0#0#0#0#0"0(22@56"Incomplete implementation of class 'ColorableStatusItem'327341892#1639#129#0(6@57"/Users/oliver/Projects/Clockificate/ColorableStatusItem.m327341854#217#0#217#0#38"incomplete implementation of class '*'0(22@44"Method definition for '-setImage:' not found327341892#1768#117#0(6@57"/Users/oliver/Projects/Clockificate/ColorableStatusItem.m327341854#217#0#217#0#35"method definition for '*' not found0(0#0#57"/Users/oliver/Projects/Clockificate/ColorableStatusItem.m8641510496#1547"    cd /Users/oliver/Projects/Clockificate    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-generated-files.hmap -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-own-target-headers.hmap -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-all-target-headers.hmap -iquote /Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-project-headers.hmap -F/Users/oliver/Projects/Clockificate/build/Debug -I/Users/oliver/Projects/Clockificate/build/Debug/include -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/DerivedSources -include /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-bsssnkhzfddevudfkurxrwlsdtlp/Clockificate_Prefix.pch -c /Users/oliver/Projects/Clockificate/ColorableStatusItem.m -o /Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ColorableStatusItem.o0#
+
+CCompileC build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ColorableStatusItem.o /Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327348706.133323
+e327348706.310162
+r1
+xCompileC
+xbuild/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ColorableStatusItem.o
+x/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m: In function '-[ColorableStatusItem mouseDown:]':
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:41: warning: class 'ColorableStatusItem' does not implement the 'NSMenuDelegate' protocol
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m: In function '-[ColorableStatusItem setTitleToBinary:]':
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:169: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:169: warning: (Messages without a matching method signature
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:169: warning: will be assumed to return 'id' and accept
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:169: warning: '...' as arguments.)
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:172: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:178: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:180: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:183: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:185: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m: At top level:
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:224: warning: incomplete implementation of class 'ColorableStatusItem'
+o/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:224: warning: method definition for '-setImage:' not found
+lSLF07#2@71"Compile /Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m327348706#327348706#0(1975"/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m: In function '-[ColorableStatusItem mouseDown:]':/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:41: warning: class 'ColorableStatusItem' does not implement the 'NSMenuDelegate' protocol/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m: In function '-[ColorableStatusItem setTitleToBinary:]':/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:169: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:169: warning: (Messages without a matching method signature/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:169: warning: will be assumed to return 'id' and accept/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:169: warning: '...' as arguments.)/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:172: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:178: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:180: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:183: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:185: warning: 'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m: At top level:/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:224: warning: incomplete implementation of class 'ColorableStatusItem'/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m:224: warning: method definition for '-setImage:' not found11(22@76"Class 'ColorableStatusItem' does not implement the 'NSMenuDelegate' protocol327348706#114#154#0(6@63"/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m327348705#41#0#41#0#45"class '*' does not implement the '*' protocol0(22@72"'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'327348706#389#151#0(6@63"/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m327348705#169#0#169#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)327348706#540#124#0(6@63"/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m327348705#169#0#169#0#0"0(22@72"'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'327348706#883#151#0(6@63"/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m327348705#172#0#172#0#26"'*' may not respond to '*'0(22@72"'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'327348706#1034#151#0(6@63"/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m327348705#178#0#178#0#26"'*' may not respond to '*'0(22@72"'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'327348706#1185#151#0(6@63"/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m327348705#180#0#180#0#26"'*' may not respond to '*'0(22@72"'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'327348706#1336#151#0(6@63"/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m327348705#183#0#183#0#26"'*' may not respond to '*'0(22@72"'ColorableStatusItem' may not respond to '-drawBits:digit:centerX:mask:'327348706#1487#151#0(6@63"/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m327348705#185#0#185#0#26"'*' may not respond to '*'0(23@13"At top level:327348706#1638#79#0(6@63"/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m327348705#0#0#0#0#0"0(22@56"Incomplete implementation of class 'ColorableStatusItem'327348706#1717#135#0(6@63"/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m327348705#224#0#224#0#38"incomplete implementation of class '*'0(22@44"Method definition for '-setImage:' not found327348706#1852#123#0(6@63"/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m327348705#224#0#224#0#35"method definition for '*' not found0(0#0#63"/Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m8620415776#1613"    cd /Users/oliver/Projects/Clockificate/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-generated-files.hmap -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-own-target-headers.hmap -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-all-target-headers.hmap -iquote /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-project-headers.hmap -F/Users/oliver/Projects/Clockificate/trunk/build/Debug -I/Users/oliver/Projects/Clockificate/trunk/build/Debug/include -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources -include /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-fressgwloseeachaqnqpcuvktzwb/Clockificate_Prefix.pch -c /Users/oliver/Projects/Clockificate/trunk/ColorableStatusItem.m -o /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/ColorableStatusItem.o0#
+
+CCompileC build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/main.o /Users/oliver/Projects/Clockificate/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327341892.667668
+e327341892.806371
+r1
+xCompileC
+xbuild/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/main.o
+x/Users/oliver/Projects/Clockificate/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/oliver/Projects/Clockificate/main.m327341892#327341892#0(0"0(0#0#42"/Users/oliver/Projects/Clockificate/main.m8637505856#1517"    cd /Users/oliver/Projects/Clockificate    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-generated-files.hmap -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-own-target-headers.hmap -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-all-target-headers.hmap -iquote /Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-project-headers.hmap -F/Users/oliver/Projects/Clockificate/build/Debug -I/Users/oliver/Projects/Clockificate/build/Debug/include -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/DerivedSources -include /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-bsssnkhzfddevudfkurxrwlsdtlp/Clockificate_Prefix.pch -c /Users/oliver/Projects/Clockificate/main.m -o /Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/main.o /Users/oliver/Projects/Clockificate/trunk/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327347052.835954
+e327347053.074635
+r1
+xCompileC
+xbuild/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/main.o
+x/Users/oliver/Projects/Clockificate/trunk/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/oliver/Projects/Clockificate/trunk/main.m327347052#327347053#0(0"0(0#0#48"/Users/oliver/Projects/Clockificate/trunk/main.m8609286016#1583"    cd /Users/oliver/Projects/Clockificate/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-generated-files.hmap -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-own-target-headers.hmap -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-all-target-headers.hmap -iquote /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-project-headers.hmap -F/Users/oliver/Projects/Clockificate/trunk/build/Debug -I/Users/oliver/Projects/Clockificate/trunk/build/Debug/include -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources -include /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-fressgwloseeachaqnqpcuvktzwb/Clockificate_Prefix.pch -c /Users/oliver/Projects/Clockificate/trunk/main.m -o /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/oliver/Projects/Clockificate/English.lproj/MainMenu.xib
+s327342214.285030
+e327342214.541464
+r1
+xCompileXIB
+x/Users/oliver/Projects/Clockificate/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib327342214#327342214#0(0"0(0#0#62"/Users/oliver/Projects/Clockificate/English.lproj/MainMenu.xib8637710240#360"    cd /Users/oliver/Projects/Clockificate    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/Resources/English.lproj/MainMenu.nib /Users/oliver/Projects/Clockificate/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/oliver/Projects/Clockificate/trunk/English.lproj/MainMenu.xib
+s327356060.398467
+e327356060.718268
+r1
+xCompileXIB
+x/Users/oliver/Projects/Clockificate/trunk/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib327356060#327356060#0(0"0(0#0#68"/Users/oliver/Projects/Clockificate/trunk/English.lproj/MainMenu.xib8621785344#378"    cd /Users/oliver/Projects/Clockificate/trunk    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/Resources/English.lproj/MainMenu.nib /Users/oliver/Projects/Clockificate/trunk/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCopyStringsFile /Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s327341885.617494
+e327341886.314092
+r1
+xCopyStringsFile
+x/Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings327341885#327341886#0(0"0(0#0#67"/Users/oliver/Projects/Clockificate/English.lproj/InfoPlist.strings12948295612825704#364"    cd /Users/oliver/Projects/Clockificate    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCpResource build/Debug/Clockificate.app/Contents/Resources/ClockificateIcon.icns ClockificateIcon.icns
+s327347049.307044
+e327347049.314228
+r1
+xCpResource
+xbuild/Debug/Clockificate.app/Contents/Resources/ClockificateIcon.icns
+xClockificateIcon.icns
+lSLF07#2@26"Copy ClockificateIcon.icns327347049#327347049#0(0"0(0#0#63"/Users/oliver/Projects/Clockificate/trunk/ClockificateIcon.icns8607868352#365"    cd /Users/oliver/Projects/Clockificate/trunk    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/oliver/Projects/Clockificate/trunk/ClockificateIcon.icns /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/Resources0#
+
+CLd /Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/MacOS/Clockificate normal x86_64
+s327342214.896830
+e327342214.930650
+r1
+xLd
+x/Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/MacOS/Clockificate
+xnormal
+xx86_64
+lSLF07#2@97"Link /Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/MacOS/Clockificate327342214#327342214#0(0"0(0#0#0"8625677024#552"    cd /Users/oliver/Projects/Clockificate    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/oliver/Projects/Clockificate/build/Debug -F/Users/oliver/Projects/Clockificate/build/Debug -filelist /Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/Clockificate.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/MacOS/Clockificate0#
+
+CLd /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/MacOS/Clockificate normal x86_64
+s327356017.190606
+e327356017.234750
+r1
+xLd
+x/Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/MacOS/Clockificate
+xnormal
+xx86_64
+lSLF07#2@103"Link /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/MacOS/Clockificate327356017#327356017#0(0"0(0#0#0"8617986752#582"    cd /Users/oliver/Projects/Clockificate/trunk    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/oliver/Projects/Clockificate/trunk/build/Debug -F/Users/oliver/Projects/Clockificate/trunk/build/Debug -filelist /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Objects-normal/x86_64/Clockificate.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/MacOS/Clockificate0#
+
+CProcessInfoPlistFile /Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/Info.plist Clockificate-Info.plist
+s327341885.605537
+e327341885.617405
+r1
+xProcessInfoPlistFile
+x/Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/Info.plist
+xClockificate-Info.plist
+lSLF07#2@31"Process Clockificate-Info.plist327341885#327341885#0(0"0(0#0#59"/Users/oliver/Projects/Clockificate/Clockificate-Info.plist8637853792#316"    cd /Users/oliver/Projects/Clockificate    builtin-infoPlistUtility Clockificate-Info.plist -genpkginfo /Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/Info.plist Clockificate-Info.plist
+s327356243.350360
+e327356243.354853
+r1
+xProcessInfoPlistFile
+x/Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/Info.plist
+xClockificate-Info.plist
+lSLF07#2@31"Process Clockificate-Info.plist327356243#327356243#0(0"0(0#0#65"/Users/oliver/Projects/Clockificate/trunk/Clockificate-Info.plist8625243040#334"    cd /Users/oliver/Projects/Clockificate/trunk    builtin-infoPlistUtility Clockificate-Info.plist -genpkginfo /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app/Contents/Info.plist0#
+
+CProcessPCH /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-bsssnkhzfddevudfkurxrwlsdtlp/Clockificate_Prefix.pch.gch Clockificate_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327341886.889934
+e327341892.667505
+r1
+xProcessPCH
+x/var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-bsssnkhzfddevudfkurxrwlsdtlp/Clockificate_Prefix.pch.gch
+xClockificate_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Clockificate_Prefix.pch327341886#327341892#0(0"0(0#0#59"/Users/oliver/Projects/Clockificate/Clockificate_Prefix.pch8640015552#1421"    cd /Users/oliver/Projects/Clockificate    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-generated-files.hmap -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-own-target-headers.hmap -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-all-target-headers.hmap -iquote /Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/Clockificate-project-headers.hmap -F/Users/oliver/Projects/Clockificate/build/Debug -I/Users/oliver/Projects/Clockificate/build/Debug/include -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Clockificate/build/Clockificate.build/Debug/Clockificate.build/DerivedSources -c /Users/oliver/Projects/Clockificate/Clockificate_Prefix.pch -o /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-bsssnkhzfddevudfkurxrwlsdtlp/Clockificate_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-fressgwloseeachaqnqpcuvktzwb/Clockificate_Prefix.pch.gch Clockificate_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s327347049.626875
+e327347052.835815
+r1
+xProcessPCH
+x/var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-fressgwloseeachaqnqpcuvktzwb/Clockificate_Prefix.pch.gch
+xClockificate_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile Clockificate_Prefix.pch327347049#327347052#0(0"0(0#0#65"/Users/oliver/Projects/Clockificate/trunk/Clockificate_Prefix.pch8610332064#1481"    cd /Users/oliver/Projects/Clockificate/trunk    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-generated-files.hmap -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-own-target-headers.hmap -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-all-target-headers.hmap -iquote /Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/Clockificate-project-headers.hmap -F/Users/oliver/Projects/Clockificate/trunk/build/Debug -I/Users/oliver/Projects/Clockificate/trunk/build/Debug/include -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources/x86_64 -I/Users/oliver/Projects/Clockificate/trunk/build/Clockificate.build/Debug/Clockificate.build/DerivedSources -c /Users/oliver/Projects/Clockificate/trunk/Clockificate_Prefix.pch -o /var/folders/BS/BS3esUzQHmiQyppz6f2uM++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Clockificate_Prefix-fressgwloseeachaqnqpcuvktzwb/Clockificate_Prefix.pch.gch0#
+
+CTouch /Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app
+s327342214.930743
+e327342214.933328
+r1
+xTouch
+x/Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app
+lSLF07#2@70"Touch /Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app327342214#327342214#0(0"0(0#0#0"8640836608#130"    cd /Users/oliver/Projects/Clockificate    /usr/bin/touch -c /Users/oliver/Projects/Clockificate/build/Debug/Clockificate.app0#
+
+CTouch /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app
+s327356243.356107
+e327356243.358767
+r1
+xTouch
+x/Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app
+lSLF07#2@76"Touch /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app327356243#327356243#0(0"0(0#0#0"8622681408#142"    cd /Users/oliver/Projects/Clockificate/trunk    /usr/bin/touch -c /Users/oliver/Projects/Clockificate/trunk/build/Debug/Clockificate.app0#
+
